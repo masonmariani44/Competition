@@ -1,0 +1,5 @@
+Mary Smith: 3
+Emma Bates: 5
+Minnie Davidson: 2
+Elizabeth Carson: 1
+Anna Adams: 4

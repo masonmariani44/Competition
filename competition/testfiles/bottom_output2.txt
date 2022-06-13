@@ -1,0 +1,5 @@
+Bottom 1:: [Sarah Ingles: 76]
+Bottom 2:: [Sarah Ingles: 76, Emma Bates: 171]
+Bottom 3:: [Sarah Ingles: 76, Emma Bates: 171, Alice George: 242]
+Bottom 4:: [Sarah Ingles: 76, Emma Bates: 171, Alice George: 242, Bertha Harris: 251]
+Bottom 5:: [Sarah Ingles: 76, Emma Bates: 171, Alice George: 242, Bertha Harris: 251, Margaret Ellis: 266]

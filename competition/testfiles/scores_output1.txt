@@ -1,0 +1,5 @@
+Mary Smith: [35, 85, 90]
+Emma Bates: [40, 43, 52]
+Minnie Davidson: [63, 87, 87]
+Elizabeth Carson: [76, 79, 96]
+Anna Adams: [53, 58, 95]

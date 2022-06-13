@@ -1,0 +1,10 @@
+Mary Smith: 4
+Margaret Ellis: 6
+Ida Frank: 1
+Alice George: 8
+Bertha Harris: 7
+Sarah Ingles: 10
+Emma Bates: 9
+Minnie Davidson: 3
+Elizabeth Carson: 2
+Anna Adams: 5

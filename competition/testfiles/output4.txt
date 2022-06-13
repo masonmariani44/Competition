@@ -1,0 +1,30 @@
+Total Score: 135
+Scores: [27, 46, 62]
+Rank: 2
+Total Score: 264
+Scores: [27, 46, 48, 62, 81]
+Rank: 3
+Total Score: 320
+Scores: [24, 27, 32, 46, 48, 62, 81]
+Rank: 3
+Total Score: 466
+Scores: [8, 24, 27, 32, 46, 48, 51, 62, 81, 87]
+Rank: 3
+Total Score: 624
+Scores: [32, 46, 48, 51, 53, 62, 77, 81, 87, 87]
+Rank: 3
+Total Score: 697
+Scores: [48, 51, 53, 62, 74, 77, 77, 81, 87, 87]
+Rank: 3
+Total Score: 709
+Scores: [51, 53, 60, 62, 74, 77, 77, 81, 87, 87]
+Rank: 3
+Total Score: 793
+Scores: [60, 62, 74, 77, 77, 81, 87, 87, 91, 97]
+Rank: 3
+Total Score: 856
+Scores: [74, 77, 77, 81, 87, 87, 88, 91, 97, 97]
+Rank: 3
+Total Score: 870
+Scores: [77, 77, 81, 87, 87, 88, 88, 91, 97, 97]
+Rank: 2

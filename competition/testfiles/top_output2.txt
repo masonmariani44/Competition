@@ -1,0 +1,5 @@
+Top 1:: [Ida Frank: 385]
+Top 2:: [Ida Frank: 385, Elizabeth Carson: 371]
+Top 3:: [Ida Frank: 385, Elizabeth Carson: 371, Minnie Davidson: 329]
+Top 4:: [Ida Frank: 385, Elizabeth Carson: 371, Minnie Davidson: 329, Mary Smith: 278]
+Top 5:: [Ida Frank: 385, Elizabeth Carson: 371, Minnie Davidson: 329, Mary Smith: 278, Anna Adams: 277]
